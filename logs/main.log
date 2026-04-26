@@ -1,0 +1,82 @@
+2026-04-25 11:18:39,915 - main.py - config.logger - INFO - Bot started
+2026-04-25 11:22:26,657 - main.py - config.logger - INFO - Bot started
+2026-04-25 11:23:14,479 - main.py - config.logger - INFO - Bot started
+2026-04-25 11:25:16,194 - main.py - config.logger - INFO - Bot started
+2026-04-25 11:36:14,669 - main.py - config.logger - INFO - Bot started
+2026-04-25 11:42:38,789 - main.py - config.logger - INFO - Bot started
+2026-04-25 11:43:09,072 - main.py - config.logger - INFO - Bot started
+2026-04-25 15:20:58,170 - main.py - config.logger - INFO - Bot started
+2026-04-25 15:22:00,800 - main.py - config.logger - INFO - Bot started
+2026-04-25 15:22:41,577 - main.py - config.logger - INFO - Bot started
+2026-04-25 15:23:04,218 - main.py - config.logger - INFO - Bot started
+2026-04-25 15:25:01,883 - main.py - config.logger - INFO - Bot started
+2026-04-25 15:26:33,828 - main.py - config.logger - INFO - Bot started
+2026-04-25 15:27:41,999 - main.py - config.logger - INFO - Bot started
+2026-04-25 15:28:49,794 - main.py - config.logger - INFO - Bot started
+2026-04-25 15:39:53,287 - main.py - config.logger - INFO - Bot started
+2026-04-25 15:40:50,824 - main.py - config.logger - INFO - Bot started
+2026-04-25 15:54:30,985 - main.py - config.logger - INFO - Bot started
+2026-04-25 16:14:43,268 - main.py - config.logger - INFO - Bot started
+2026-04-25 16:15:57,403 - main.py - config.logger - INFO - Bot started
+2026-04-25 16:16:16,422 - main.py - config.logger - INFO - Bot started
+2026-04-25 17:46:21,298 - main.py - config.logger - INFO - Bot started
+2026-04-25 17:48:10,516 - main.py - config.logger - INFO - Bot started
+2026-04-25 17:49:25,156 - main.py - config.logger - INFO - Bot started
+2026-04-25 17:51:43,823 - main.py - config.logger - INFO - Bot started
+2026-04-25 17:52:17,488 - main.py - config.logger - INFO - Bot started
+2026-04-25 17:52:56,299 - main.py - config.logger - INFO - Bot started
+2026-04-25 17:53:45,014 - main.py - config.logger - INFO - Bot started
+2026-04-25 17:54:50,732 - main.py - config.logger - INFO - Bot started
+2026-04-25 17:56:41,587 - main.py - config.logger - INFO - Bot started
+2026-04-25 18:00:42,926 - main.py - config.logger - INFO - Bot started
+2026-04-25 18:01:46,834 - main.py - config.logger - INFO - Bot started
+2026-04-25 18:02:09,297 - main.py - config.logger - INFO - Bot started
+2026-04-25 18:03:58,781 - main.py - config.logger - INFO - Bot started
+2026-04-25 18:04:33,268 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:21:31,713 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:22:44,770 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:24:38,884 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:30:48,883 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:34:00,510 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:46:49,821 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:47:08,540 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:48:56,434 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:49:54,390 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:51:46,584 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:52:37,359 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:55:26,800 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:55:55,187 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:56:13,517 - main.py - config.logger - INFO - Bot started
+2026-04-25 20:57:14,962 - main.py - config.logger - INFO - Bot started
+2026-04-25 21:27:31,068 - main.py - config.logger - INFO - Bot started
+2026-04-25 21:29:08,409 - main.py - config.logger - INFO - Bot started
+2026-04-25 21:29:50,312 - main.py - config.logger - INFO - Bot started
+2026-04-25 21:30:53,616 - main.py - config.logger - INFO - Bot started
+2026-04-25 21:31:53,239 - main.py - config.logger - INFO - Bot started
+2026-04-25 21:35:07,966 - main.py - config.logger - INFO - Bot started
+2026-04-25 21:36:22,153 - main.py - config.logger - INFO - Bot started
+2026-04-25 21:52:57,152 - main.py - config.logger - INFO - Bot started
+2026-04-25 21:53:12,887 - photo_agent.py - config.logger - ERROR - Ошибка загрузки файла: 400 - {"status":400,"message":"No purpose provided"}
+
+2026-04-25 21:55:29,788 - main.py - config.logger - INFO - Bot started
+2026-04-25 21:55:43,147 - photo_agent.py - config.logger - ERROR - Ошибка запроса к GigaChat: 400 - {"status":400,"message":"Your request contains invalid JSON syntax."}
+
+2026-04-25 21:56:36,378 - main.py - config.logger - INFO - Bot started
+2026-04-25 21:56:48,230 - photo_agent.py - config.logger - ERROR - Ошибка запроса к GigaChat: 400 - {"status":400,"message":"Your request contains invalid JSON syntax."}
+
+2026-04-25 21:59:54,759 - main.py - config.logger - INFO - Bot started
+2026-04-25 22:02:55,333 - main.py - config.logger - INFO - Bot started
+2026-04-25 22:03:07,004 - photo_agent.py - config.logger - ERROR - Ошибка запроса к GigaChat: 400 - {"status":400,"message":"Your request contains invalid JSON syntax."}
+
+2026-04-25 22:04:06,752 - main.py - config.logger - INFO - Bot started
+2026-04-25 22:26:55,668 - main.py - config.logger - INFO - Bot started
+2026-04-25 22:51:37,916 - main.py - config.logger - INFO - Bot started
+2026-04-25 22:56:52,914 - main.py - config.logger - INFO - Bot started
+2026-04-25 23:13:33,430 - main.py - config.logger - INFO - Bot started
+2026-04-26 09:27:49,360 - main.py - config.logger - INFO - Bot started
+2026-04-26 09:35:54,793 - main.py - config.logger - INFO - Bot started
+2026-04-26 09:36:44,142 - main.py - config.logger - INFO - Bot started
+2026-04-26 09:38:15,525 - main.py - config.logger - INFO - Bot started
+2026-04-26 09:39:38,098 - main.py - config.logger - INFO - Bot started
+2026-04-26 09:46:13,017 - main.py - config.logger - INFO - Bot started
+2026-04-26 09:58:36,646 - main.py - config.logger - INFO - Bot started
